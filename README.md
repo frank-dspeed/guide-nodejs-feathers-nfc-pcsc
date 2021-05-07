@@ -1,3 +1,6 @@
+# Not Maintained
+This is a relict and Example Implementation of a NFC Scanner connected via a Websockets API Using the Feathers Framework
+
 # feathers-nfc-pcsc
 A feathers js Service using pcsc bindings.
 
